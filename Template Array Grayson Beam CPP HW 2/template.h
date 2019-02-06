@@ -16,7 +16,7 @@ namespace the_boot
 		int index_range;
 	public:
 		/**
-		 * Creates the elements that make up the boiler plate of the class.
+		 * Creates the element rules that make up the boiler plate of the class.
 		 * Will throw an exception if the index_upper and/or index_lower values are invalid.
 		 * @param index_lower the lowest value the array will hold.
 		 * @param index_upper the highest value the array will hold.
